@@ -1,0 +1,19 @@
+name: nlcr-empirical-evaluation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipykernel
+  - ipython
+  - jupyterlab
+  - notebook
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - pyarrow
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - kaggle
+  - pytest

@@ -1,0 +1,37 @@
+task,method,value,rank,experiment,model,metric,source
+Household power:mae,ols,205.66612581151085,2.0,Household power,default,mae,standard
+Household power:rmse,ols,365.3004683731127,2.0,Household power,default,rmse,standard
+Household power:smape,ols,1.334122175378054,2.0,Household power,default,smape,standard
+LOBSTER bid/ask:mae,ols,65.5855957285825,3.0,LOBSTER bid/ask,default,mae,standard
+LOBSTER bid/ask:rmse,ols,219.36821696465464,1.0,LOBSTER bid/ask,default,rmse,standard
+LOBSTER bid/ask:smape,ols,0.4176409117972474,1.0,LOBSTER bid/ask,default,smape,standard
+M5 sales:mae,ols,9.98621557567864,2.0,M5 sales,default,mae,standard
+M5 sales:rmse,ols,18.57763984879183,2.0,M5 sales,default,rmse,standard
+M5 sales:smape,ols,0.2284376273691001,3.0,M5 sales,default,smape,standard
+Synthetic:mae,ols,1.4755145898821824,3.0,Synthetic,default,mae,standard
+Synthetic:rmse,ols,2.5459926532047783,3.0,Synthetic,default,rmse,standard
+Synthetic:smape,ols,0.1017213750506842,3.0,Synthetic,default,smape,standard
+Household power:mae,wls,202.06370238036092,1.0,Household power,default,mae,standard
+Household power:rmse,wls,362.8126844610749,1.0,Household power,default,rmse,standard
+Household power:smape,wls,1.3268022245717754,1.0,Household power,default,smape,standard
+LOBSTER bid/ask:mae,wls,62.02291335849548,2.0,LOBSTER bid/ask,default,mae,standard
+LOBSTER bid/ask:rmse,wls,219.60087657231813,2.0,LOBSTER bid/ask,default,rmse,standard
+LOBSTER bid/ask:smape,wls,0.4296190310421079,2.0,LOBSTER bid/ask,default,smape,standard
+M5 sales:mae,wls,9.9495258067239,1.0,M5 sales,default,mae,standard
+M5 sales:rmse,wls,18.483705109872727,1.0,M5 sales,default,rmse,standard
+M5 sales:smape,wls,0.2263654273209615,1.0,M5 sales,default,smape,standard
+Synthetic:mae,wls,1.3930437298624971,2.0,Synthetic,default,mae,standard
+Synthetic:rmse,wls,2.423373582186854,2.0,Synthetic,default,rmse,standard
+Synthetic:smape,wls,0.0921838379330121,2.0,Synthetic,default,smape,standard
+Household power:mae,shr,210.5419372577313,3.0,Household power,default,mae,standard
+Household power:rmse,shr,408.6379306484266,3.0,Household power,default,rmse,standard
+Household power:smape,shr,1.3758258095796518,3.0,Household power,default,smape,standard
+LOBSTER bid/ask:mae,shr,61.93923160143998,1.0,LOBSTER bid/ask,default,mae,standard
+LOBSTER bid/ask:rmse,shr,219.6958703046489,3.0,LOBSTER bid/ask,default,rmse,standard
+LOBSTER bid/ask:smape,shr,0.4299236672093118,3.0,LOBSTER bid/ask,default,smape,standard
+M5 sales:mae,shr,10.005042009074652,3.0,M5 sales,default,mae,standard
+M5 sales:rmse,shr,18.61944279569204,3.0,M5 sales,default,rmse,standard
+M5 sales:smape,shr,0.2276486568650874,2.0,M5 sales,default,smape,standard
+Synthetic:mae,shr,1.095981340028565,1.0,Synthetic,default,mae,standard
+Synthetic:rmse,shr,1.9175193078759047,1.0,Synthetic,default,rmse,standard
+Synthetic:smape,shr,0.0677347805895409,1.0,Synthetic,default,smape,standard

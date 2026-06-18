@@ -1,0 +1,73 @@
+task,method,value,rank,experiment,model,metric,source
+Household power:mae,ols,205.66612581151085,2.0,Household power,default,mae,standard
+Household power:rmse,ols,365.3004683731127,2.0,Household power,default,rmse,standard
+Household power:smape,ols,1.334122175378054,2.0,Household power,default,smape,standard
+LOBSTER backtest:extra_trees:mae,ols,48.924374047821374,2.0,LOBSTER backtest,extra_trees,mae,backtest_forecast
+LOBSTER backtest:extra_trees:rmse,ols,176.95331541827952,1.0,LOBSTER backtest,extra_trees,rmse,backtest_forecast
+LOBSTER backtest:extra_trees:smape,ols,0.5592288083605225,1.0,LOBSTER backtest,extra_trees,smape,backtest_forecast
+LOBSTER backtest:hist_gbr:mae,ols,60.70317665249204,3.0,LOBSTER backtest,hist_gbr,mae,backtest_forecast
+LOBSTER backtest:hist_gbr:rmse,ols,205.93782403389608,3.0,LOBSTER backtest,hist_gbr,rmse,backtest_forecast
+LOBSTER backtest:hist_gbr:smape,ols,0.7635336091365486,3.0,LOBSTER backtest,hist_gbr,smape,backtest_forecast
+LOBSTER backtest:naive_state:mae,ols,62.31296444682503,1.0,LOBSTER backtest,naive_state,mae,backtest_forecast
+LOBSTER backtest:naive_state:rmse,ols,228.9475179637248,2.0,LOBSTER backtest,naive_state,rmse,backtest_forecast
+LOBSTER backtest:naive_state:smape,ols,0.498994602816841,1.0,LOBSTER backtest,naive_state,smape,backtest_forecast
+LOBSTER backtest:ridge:mae,ols,58.62024287004003,3.0,LOBSTER backtest,ridge,mae,backtest_forecast
+LOBSTER backtest:ridge:rmse,ols,192.94236654704548,3.0,LOBSTER backtest,ridge,rmse,backtest_forecast
+LOBSTER backtest:ridge:smape,ols,0.5854188090744895,1.0,LOBSTER backtest,ridge,smape,backtest_forecast
+LOBSTER bid/ask:mae,ols,65.5855957285825,3.0,LOBSTER bid/ask,default,mae,standard
+LOBSTER bid/ask:rmse,ols,219.36821696465464,1.0,LOBSTER bid/ask,default,rmse,standard
+LOBSTER bid/ask:smape,ols,0.4176409117972474,1.0,LOBSTER bid/ask,default,smape,standard
+M5 sales:mae,ols,9.98621557567864,2.0,M5 sales,default,mae,standard
+M5 sales:rmse,ols,18.57763984879183,2.0,M5 sales,default,rmse,standard
+M5 sales:smape,ols,0.2284376273691001,3.0,M5 sales,default,smape,standard
+Synthetic:mae,ols,1.4755145898821824,3.0,Synthetic,default,mae,standard
+Synthetic:rmse,ols,2.5459926532047783,3.0,Synthetic,default,rmse,standard
+Synthetic:smape,ols,0.1017213750506842,3.0,Synthetic,default,smape,standard
+Household power:mae,wls,202.06370238036092,1.0,Household power,default,mae,standard
+Household power:rmse,wls,362.8126844610749,1.0,Household power,default,rmse,standard
+Household power:smape,wls,1.3268022245717754,1.0,Household power,default,smape,standard
+LOBSTER backtest:extra_trees:mae,wls,48.90410965640973,1.0,LOBSTER backtest,extra_trees,mae,backtest_forecast
+LOBSTER backtest:extra_trees:rmse,wls,177.33932288081994,2.0,LOBSTER backtest,extra_trees,rmse,backtest_forecast
+LOBSTER backtest:extra_trees:smape,wls,0.6000754887363644,2.0,LOBSTER backtest,extra_trees,smape,backtest_forecast
+LOBSTER backtest:hist_gbr:mae,wls,51.00676254906003,1.5,LOBSTER backtest,hist_gbr,mae,backtest_forecast
+LOBSTER backtest:hist_gbr:rmse,wls,192.08284977833827,1.5,LOBSTER backtest,hist_gbr,rmse,backtest_forecast
+LOBSTER backtest:hist_gbr:smape,wls,0.6560577573466354,1.5,LOBSTER backtest,hist_gbr,smape,backtest_forecast
+LOBSTER backtest:naive_state:mae,wls,62.31296444692674,2.5,LOBSTER backtest,naive_state,mae,backtest_forecast
+LOBSTER backtest:naive_state:rmse,wls,228.9475179637248,2.0,LOBSTER backtest,naive_state,rmse,backtest_forecast
+LOBSTER backtest:naive_state:smape,wls,0.502747126905212,2.5,LOBSTER backtest,naive_state,smape,backtest_forecast
+LOBSTER backtest:ridge:mae,wls,48.99350540085357,2.0,LOBSTER backtest,ridge,mae,backtest_forecast
+LOBSTER backtest:ridge:rmse,wls,179.65375802614167,1.0,LOBSTER backtest,ridge,rmse,backtest_forecast
+LOBSTER backtest:ridge:smape,wls,0.5963004931655376,2.0,LOBSTER backtest,ridge,smape,backtest_forecast
+LOBSTER bid/ask:mae,wls,62.02291335849548,2.0,LOBSTER bid/ask,default,mae,standard
+LOBSTER bid/ask:rmse,wls,219.60087657231813,2.0,LOBSTER bid/ask,default,rmse,standard
+LOBSTER bid/ask:smape,wls,0.4296190310421079,2.0,LOBSTER bid/ask,default,smape,standard
+M5 sales:mae,wls,9.9495258067239,1.0,M5 sales,default,mae,standard
+M5 sales:rmse,wls,18.483705109872727,1.0,M5 sales,default,rmse,standard
+M5 sales:smape,wls,0.2263654273209615,1.0,M5 sales,default,smape,standard
+Synthetic:mae,wls,1.3930437298624971,2.0,Synthetic,default,mae,standard
+Synthetic:rmse,wls,2.423373582186854,2.0,Synthetic,default,rmse,standard
+Synthetic:smape,wls,0.0921838379330121,2.0,Synthetic,default,smape,standard
+Household power:mae,shr,210.5419372577313,3.0,Household power,default,mae,standard
+Household power:rmse,shr,408.6379306484266,3.0,Household power,default,rmse,standard
+Household power:smape,shr,1.3758258095796518,3.0,Household power,default,smape,standard
+LOBSTER backtest:extra_trees:mae,shr,48.95365130906147,3.0,LOBSTER backtest,extra_trees,mae,backtest_forecast
+LOBSTER backtest:extra_trees:rmse,shr,177.69814345301154,3.0,LOBSTER backtest,extra_trees,rmse,backtest_forecast
+LOBSTER backtest:extra_trees:smape,shr,0.6025039357396093,3.0,LOBSTER backtest,extra_trees,smape,backtest_forecast
+LOBSTER backtest:hist_gbr:mae,shr,51.00676254906003,1.5,LOBSTER backtest,hist_gbr,mae,backtest_forecast
+LOBSTER backtest:hist_gbr:rmse,shr,192.08284977833827,1.5,LOBSTER backtest,hist_gbr,rmse,backtest_forecast
+LOBSTER backtest:hist_gbr:smape,shr,0.6560577573466354,1.5,LOBSTER backtest,hist_gbr,smape,backtest_forecast
+LOBSTER backtest:naive_state:mae,shr,62.31296444692674,2.5,LOBSTER backtest,naive_state,mae,backtest_forecast
+LOBSTER backtest:naive_state:rmse,shr,228.9475179637248,2.0,LOBSTER backtest,naive_state,rmse,backtest_forecast
+LOBSTER backtest:naive_state:smape,shr,0.502747126905212,2.5,LOBSTER backtest,naive_state,smape,backtest_forecast
+LOBSTER backtest:ridge:mae,shr,47.90656054166345,1.0,LOBSTER backtest,ridge,mae,backtest_forecast
+LOBSTER backtest:ridge:rmse,shr,180.8102326605172,2.0,LOBSTER backtest,ridge,rmse,backtest_forecast
+LOBSTER backtest:ridge:smape,shr,0.6055720957166066,3.0,LOBSTER backtest,ridge,smape,backtest_forecast
+LOBSTER bid/ask:mae,shr,61.93923160143998,1.0,LOBSTER bid/ask,default,mae,standard
+LOBSTER bid/ask:rmse,shr,219.6958703046489,3.0,LOBSTER bid/ask,default,rmse,standard
+LOBSTER bid/ask:smape,shr,0.4299236672093118,3.0,LOBSTER bid/ask,default,smape,standard
+M5 sales:mae,shr,10.005042009074652,3.0,M5 sales,default,mae,standard
+M5 sales:rmse,shr,18.61944279569204,3.0,M5 sales,default,rmse,standard
+M5 sales:smape,shr,0.2276486568650874,2.0,M5 sales,default,smape,standard
+Synthetic:mae,shr,1.095981340028565,1.0,Synthetic,default,mae,standard
+Synthetic:rmse,shr,1.9175193078759047,1.0,Synthetic,default,rmse,standard
+Synthetic:smape,shr,0.0677347805895409,1.0,Synthetic,default,smape,standard
