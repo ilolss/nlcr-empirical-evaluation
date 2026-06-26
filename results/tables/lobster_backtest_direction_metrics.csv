@@ -1,7 +1,7 @@
 model,method,direction_accuracy_all,direction_accuracy_active,active_rate,corr_pred_realized_move
 naive_state,none,0.03,,0.0,
 ridge,none,0.41,0.41,1.0,0.017088705606108298
-extra_trees,none,0.355,0.355,1.0,0.27771552874829747
+extra_trees,none,0.355,0.355,1.0,0.2777155287482287
 hist_gbr,none,0.355,0.355,1.0,0.2903131064201101
 naive_state,ols,0.03,,0.0,
 naive_state,wls,0.61,0.6161616161616161,0.99,0.1621770789585481
@@ -9,9 +9,9 @@ naive_state,shr,0.61,0.6161616161616161,0.99,0.1621770789585481
 ridge,ols,0.41,0.41,1.0,0.017088694488376983
 ridge,wls,0.41,0.41,1.0,0.01708808138060004
 ridge,shr,0.375,0.375,1.0,
-extra_trees,ols,0.355,0.355,1.0,0.2777155287397202
-extra_trees,wls,0.355,0.355,1.0,0.27771567454087565
-extra_trees,shr,0.355,0.355,1.0,0.284446731778559
+extra_trees,ols,0.355,0.355,1.0,0.2777155287300915
+extra_trees,wls,0.355,0.355,1.0,0.27771594799075067
+extra_trees,shr,0.355,0.355,1.0,0.2844467519574814
 hist_gbr,ols,0.345,0.345,1.0,
 hist_gbr,wls,0.35,0.35,1.0,
 hist_gbr,shr,0.35,0.35,1.0,
