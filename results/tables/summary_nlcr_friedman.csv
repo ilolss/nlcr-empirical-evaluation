@@ -1,0 +1,3 @@
+scope,n_tasks,n_methods,friedman_statistic,friedman_p_value,critical_difference,alpha
+standard,12,3,4.5,0.10539922456186433,0.9568117577481386,0.05
+all_forecast,24,3,5.126436781609175,0.07705634351111597,0.6765680822227289,0.05

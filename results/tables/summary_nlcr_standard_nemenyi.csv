@@ -1,0 +1,4 @@
+method_a,method_b,rank_diff,p_value,significant
+ols,wls,0.75,0.15754695939267005,False
+ols,shr,0.0,1.0,False
+wls,shr,0.75,0.15754695939267005,False
